@@ -1,0 +1,16 @@
+SMAP
+adminView_jsp.java
+JSP
+*S JSP
+*F
++ 0 adminView.jsp
+Admin/adminView.jsp
+*L
+1,184:46
+185,5:231
+189,2:236
+191,2:238,3
+193,2:244
+194,2:246
+195,64:248
+*E

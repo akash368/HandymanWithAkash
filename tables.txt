@@ -1,0 +1,22 @@
+create table handregistration
+(
+type varchar2(10),
+fname varchar2(20),
+lname varchar2(20),
+pass varchar2(30),
+email varchar2(50) primary key,
+address varchar2(50),
+city varchar2(30)
+);
+
+create table handproreg
+(
+type varchar2(10),
+fname varchar2(20),
+lname varchar2(20),
+pass varchar2(30),
+email varchar2(50) primary key,
+service varchar2(50),
+city varchar2(30)
+);
+
